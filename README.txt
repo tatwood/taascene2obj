@@ -24,7 +24,6 @@ Building
 
 ## Linux ###
 The the following dependencies are required to build on Linux:
-    ../libdae
     ../taamath
     ../taascene
     ../taasdk
@@ -32,7 +31,6 @@ The the following dependencies are required to build on Linux:
 
 ### Windows ###
 The the following dependencies are required to build on Microsoft Windows:
-    ../libdae
     ../taamath
     ../taascene
     ../taasdk
